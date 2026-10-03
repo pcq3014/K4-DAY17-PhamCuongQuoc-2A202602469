@@ -1,0 +1,12 @@
+# Offline benchmark + tests only need these:
+python-dotenv
+tabulate
+pytest
+# Live mode (optional):
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-ollama
+langchain-openrouter

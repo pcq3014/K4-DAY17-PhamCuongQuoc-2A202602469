@@ -180,5 +180,6 @@ Nếu các bạn là giảng viên hoặc reviewer:
 
 - `Guide.md`: hướng dẫn từng bước để hoàn thành lab
 - `Rubric.md`: tiêu chí chấm điểm và bonus
+- `REPORT.md`: kết quả benchmark, phân tích trade-off và các bonus đã làm (bài làm)
 
 Track này được thiết kế để các bạn không chỉ “dùng agent”, mà còn bắt đầu nghĩ như một người thiết kế **memory system** cho agent production.

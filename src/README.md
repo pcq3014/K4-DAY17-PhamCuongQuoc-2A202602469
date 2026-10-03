@@ -1,6 +1,6 @@
 # Student Scaffold
 
-This `src/` folder is the student version of the lab.
+This `src/` folder is the student version of the lab — now fully implemented (see `../REPORT.md`).
 
 - It keeps the same high-level structure
 - The Python files are intentionally incomplete and contain pseudocode / TODOs
